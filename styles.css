@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+/*#nav{
+    background-color:blue;
+    color:white;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}*/
+
+#heading{
+    padding:20px;
+}
+
+#navlinks a{
+   color:white;
+   font-size:large;
+   margin:12px;
+   text-decoration:none;
+}
+
+.hero-img{
+    position:relative;
+    top:90px;
+    float:right;
+    height:60%;
+    width:60%;
+}
+img{
+    vertical-align:middle;
+}
+.text{
+    position:absolute;
+    top:90px;
+}
+
+
+
+
+
+
+.footer{
+    padding: 4% 15%;
+    text-align: center;
+    position:absolute;
+    left:500px;
+    top:1000px;
+}
